@@ -1,2 +1,37 @@
 
 # Completed Superbadges
+
+- Access Governance Superbadge Unit
+- Admin Super Set
+- Apex Specialist
+- App Builder Super Set
+- App Customization Specialist
+- Application Security Specialist Superbadge
+- Approval Process Management Superbadge Unit
+- Approval Process Specialist Superbadge
+- Approval Process Troubleshooting Superbadge Unit
+- Authentication Governance Superbadge Unit
+- Business Administration Specialist
+- Connected App Security Superbadge Unit
+- Data Categorization and Access Superbadge Unit
+- Developer Super Set
+- Extended User Access and Restriction Superbadge Unit
+- Flow Administration Superbadge Unit
+- Flow Elements and Resources Specalist Superbadge
+- Flow Fundamentals Superbadge Unit
+- Flow Optimization Superbadge Unit
+- Lightning Experience Reports & Dashboards Specialist
+- Multi-Factor Authentication and Single Sign-On Settings Superbadge Unit
+- Process Automation Specialist Superbadge
+- Screen Flow Distribution Superbadge Unit
+- Screen Flow Funadamentals Superbadge Unit
+- Screen Flow Specialist Superbadge
+- Security Governance Specialist Superbadge
+- Security Specialist Superbadge
+- Session Security Superbadge Unit
+- User Access Fundamentals Superbadge Unit
+- User Access Specialist Superbadge
+- User Access Troubleshooting Superbadge Unit
+- User Authentication Settings Superbadge Unit
+- User Authentication Specialist Superbadge
+- User Authentication Troubleshooting Superbadge Unit
