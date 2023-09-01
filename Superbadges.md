@@ -14,6 +14,7 @@
 - Business Administration Specialist
 - Connected App Security Superbadge Unit
 - Data Categorization and Access Superbadge Unit
+- Data Integration Specialist
 - Developer Super Set
 - Extended User Access and Restriction Superbadge Unit
 - Flow Administration Superbadge Unit
