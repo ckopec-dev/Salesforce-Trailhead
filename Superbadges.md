@@ -3,6 +3,7 @@
 
 - Access Governance Superbadge Unit
 - Admin Super Set
+- Advanced Apex Specialist
 - Apex Specialist
 - App Builder Super Set
 - App Customization Specialist
